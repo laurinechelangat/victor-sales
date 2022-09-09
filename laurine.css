@@ -1,0 +1,28 @@
+.img
+{
+    width: 8cm;
+    height: 12cm;
+    object-position: top;
+}
+
+body
+{
+    background-image: url(4.jpg);
+    background-size: cover;
+    width: 80 px;
+    height: 100px;
+}
+nav {
+}
+h1
+{   font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+h1
+{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: 700;
+}
