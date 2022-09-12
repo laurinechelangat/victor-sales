@@ -7,7 +7,7 @@
 
 body
 {
-    background-image: url(4.jpg);
+    background-image: url(l.jpg);
     background-size: cover;
     width: 80 px;
     height: 100px;
@@ -26,3 +26,26 @@ h1
     font-size: medium;
     font-weight: 700;
 }
+p{
+    font-style: italic;
+    font-size: large;
+    font-weight: 700;
+    color: blue;
+}
+h2{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+color: blue;
+}
+h3{
+    color: blue;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+footer{
+    margin-top: 100%;
+margin-bottom: 0%;
+font-size: large;
+font-weight: 900;}
+
